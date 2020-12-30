@@ -27,7 +27,7 @@ namespace SeleniumAdvancedFW
 
             CustomControls.comboBox("ContentPlaceHolder1_AllMealsCombo", "Almond");
 
-            Console.WriteLine("TearDown");
+            //Console.WriteLine("TearDown");
             Assert.Pass();
         }
     }
